@@ -1,0 +1,12 @@
+h1{
+    padding: 20px;
+    color: rgb(37, 53, 24);
+    text-shadow: 3px 3px 2px rgb(74, 72, 161);
+}
+
+p{
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-shadow: 4px 3px 3px red;
+}
